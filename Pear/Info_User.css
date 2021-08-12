@@ -1,0 +1,156 @@
+body{
+	background-color: #F8F8FF;
+	margin: 0;
+	padding: 0;	
+	font-family: 'Inconsolata', monospace;
+}
+img.imagem_back{
+	max-width: 100%;
+  	height: auto;
+}
+h1{
+	margin: 0;
+	padding-top: 0;
+	padding-left: 0;
+	padding-bottom: 20px;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 50px;
+}
+h2{
+	margin: 0;
+	padding-top: 0;
+	padding-left: 0;
+	padding-bottom: 20px;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 30px;
+}
+div.tela{
+	width: 100%;
+	height: auto;
+    text-align: center;
+    padding: 15px 20px;
+	top: 80%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	padding: 68px 28px;
+	z-index: 1;
+}
+div.opcao{
+  width: 100%;
+  height: auto;
+    text-align: center;
+    padding: 15px 20px;
+  top: 135%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+  padding: 68px 28px;
+  z-index: 1;
+}
+div.bottom_box{
+	top: 150%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	z-index: 1;
+}
+p.text_bottom{
+	text-align: center;
+	font-weight: bold;
+}
+::-webkit-scrollbar { 
+    display: none; 
+}
+.wrapper{
+  position: fixed;
+  top: 210%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+.wrappers{
+  position: fixed;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.link_wrapper{
+  position: relative;
+}
+a.b_l{
+  display: block;
+  width: 250px;
+  height: 50px;
+  line-height: 50px;
+  font-weight: bold;
+  text-decoration: none;
+  background: #FF0000;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border: 3px solid #FF0000;
+  transition: all .35s;
+}
+a.b_i{
+  display: block;
+  width: 250px;
+  height: 50px;
+  line-height: 50px;
+  font-weight: bold;
+  text-decoration: none;
+  background: #00FF00;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border: 3px solid #00FF00;
+  transition: all .35s;
+}
+.icon{
+  width: 50px;
+  height: 50px;
+  border: 3px solid transparent;
+  position: absolute;
+  transform: rotate(45deg);
+  right: 0;
+  top: 0;
+  z-index: -1;
+  transition: all .35s;
+}
+.icon svg{
+  width: 30px;
+  position: absolute;
+  top: calc(50% - 15px);
+  left: calc(50% - 15px);
+  transform: rotate(-45deg);
+  fill: #333;
+  transition: all .35s;
+}
+a.b_l:hover{
+  width: 200px;
+  border: 3px solid #FF0000;
+  background: transparent;
+  color: #333;
+}
+a.b_l:hover+.icon{
+  border: 3px solid #FF0000;
+  right: -25%;
+}
+a.b_i:hover{
+  width: 200px;
+  border: 3px solid #00FF00;
+  background: transparent;
+  color: #333;
+}
+a.b_i:hover+.icon{
+  border: 3px solid #00FF00;
+  right: -25%;
+}
