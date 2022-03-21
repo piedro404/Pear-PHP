@@ -1,13 +1,11 @@
 # Pear-PHP
 Website with CRUD made in using PHP and Apache
+
 Detalhes:
-$servername = "localhost";
-
-$database = "test";
-
-$username = "root";
-
-$password = "";
+  $servername = "localhost";
+  $database = "test";
+  $username = "root";
+  $password = "";
 
 # Message for you
 Hello, I hope you have a good learning experience, that you can clear your doubts or implement your projects. Feel free to make suggestions to improve the script.
