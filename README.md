@@ -2,8 +2,11 @@
 Website with CRUD made in using PHP and Apache
 Detalhes:
 $servername = "localhost";
+
 $database = "test";
+
 $username = "root";
+
 $password = "";
 
 # Message for you
