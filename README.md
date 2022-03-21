@@ -1,7 +1,8 @@
 # Pear-PHP
-Ola, se vc ta lendo isso, muito obrigado, meu deu um trabalho fazer, eu fiz pra ser bem simples e dinamico, mesmo ainda tendo varias falhas, o mesmo foi o meu primeiro projeto do tipo, mais desejo melhorar ainda mais
-Caso esteja querendo contato, estou disponivel no Discord Piedro#0040, seja pra conversa ou tirar duvidas
+Olá, espero que tenha um bom aprendizado, que retire suas duvidas ou implemetações a seus projetos. Sinta-se a vontade para dar sugestões para melhorar o script
 
-Pedro, Mero estudade da Unibalsas no Maranhão, em Balsas, 17 anos, introvertido e não sei conversar muito bem, mas relaxa não sou muito bizarro kkk XD
+Eu sou Pedro Henrique Martins Borges, universitario e com 17 anos. Estudo programação desde os 14 e me encanto cada vez mais sobre o universo que é o da programação, e sei que sou muito inesperiente e mais vou continuar a me esforça cada vez mais para poder adentrar o mercado de trabalho e ajudar minha familia.
 
-Thacks <3 <3 <3
+Seja por Hobby ou com desejo de se proficionalizar, desejo pra você uma otimos estudo e uma otima jornada e lembre-se: "Você diz que tem um sonho… Esse sonho… Você tem de torná-lo realidade. Torne o seu sonho maravilhoso em realidade e ele se tornará a sua verdade. Se alguém pode fazer isso, é você!"  by N/Pokémon
+
+Caso queira tirar duvida sobre algo, sinta-se a vontade de entrar em contato pessoal: pedroplayborges@gmail.com, com o tema: Duvida + Nome do Repositorio 
