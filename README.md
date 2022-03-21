@@ -2,7 +2,7 @@
 Website with CRUD made in using PHP and Apache
 
 ## Details:
-``
+```
   $servername = "localhost";
   
   $database = "test";
@@ -10,7 +10,7 @@ Website with CRUD made in using PHP and Apache
   $username = "root";
   
   $password = "";
-``
+```
 # Message for you
 Hello, I hope you have a good learning experience, that you can clear your doubts or implement your projects. Feel free to make suggestions to improve the script.
 
