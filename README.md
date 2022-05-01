@@ -1,6 +1,9 @@
 # Pear-PHP
 Website with CRUD made in using PHP and Apache
 
+![image](https://user-images.githubusercontent.com/88720549/166132857-db2723b6-5561-40df-91d9-24319c0e9c28.png)
+
+
 ## Details:
 ```
   $servername = "localhost";
